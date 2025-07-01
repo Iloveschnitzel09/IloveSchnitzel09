@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm IloveSchnitzel</h1>
 <h3 align="center">A developer from Germany</h3>
 
-- 🔭 I’m currently working on **some Minecraft plugins an a game**
+- 🔭 I’m currently working on: **some Minecraft plugins an a game**
 
-- 🌱 I’m currently learning **Java/Kotlin and Blueprints in UE5**
+- 🌱 I’m currently learning: **Java/Kotlin and Blueprints in UE5**
 
-- 📫 How to reach me **via discord, my name is IloveSchnitzel**
+- 📫 How to reach me: **via discord, my name is IloveSchnitzel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
